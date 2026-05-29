@@ -1,6 +1,22 @@
-# VS Code Extension (VSIX) Development Skill
+# vsix-vscode-extension-development-skill
+
+[![skills.sh](https://img.shields.io/endpoint?url=https://www.skills.sh/api/badge/dealenx/vsix-vscode-extension-development-skill)](https://www.skills.sh/dealenx/vsix-vscode-extension-development-skill)
 
 Comprehensive guide for developing VS Code extensions (.vsix). Based on official [Microsoft vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) and [vscode-extension-and-mcp-together](https://github.com/dealenx/vscode-extension-and-mcp-together).
+
+## Установка
+
+Установить глобально:
+
+```bash
+npx skills add dealenx/vsix-vscode-extension-development-skill -g
+```
+
+Установить в проект:
+
+```bash
+npx skills add dealenx/vsix-vscode-extension-development-skill
+```
 
 ## What This Skill Covers
 
