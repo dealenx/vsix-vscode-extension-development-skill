@@ -4,15 +4,15 @@
 
 Comprehensive guide for developing VS Code extensions (.vsix). Based on official [Microsoft vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) and [vscode-extension-and-mcp-together](https://github.com/dealenx/vscode-extension-and-mcp-together).
 
-## Установка
+## Installation
 
-Установить глобально:
+Install globally:
 
 ```bash
 npx skills add dealenx/vsix-vscode-extension-development-skill -g
 ```
 
-Установить в проект:
+Install in a project:
 
 ```bash
 npx skills add dealenx/vsix-vscode-extension-development-skill
